@@ -1,2 +1,2 @@
 # quick-raytracer-to-ppm
-rendering spheres and cubes with no graphics api to a ppm image format
+This project is an extended version of a basic raytracer originally created by Scratchapixel, modified to include polymorphic objects, bounding-box cube intersections, and would add more.
